@@ -11,4 +11,4 @@ The backend code we used is the SapLinQ_Project.ino file. This is written in the
 
 This is our SapLinQ project, along with all its source code. Please find it all here.
 
-Made By: Pranhav SB and Yudhish Kumar (Shree Saraswathi Vidhyaah Mandheer, Mettupalayam)
+Made By: Pranhav SB and Yudhish Kumar (Class 10, Shree Saraswathi Vidhyaah Mandheer, Mettupalayam)
